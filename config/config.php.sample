@@ -1,0 +1,18 @@
+<?php
+$basedir = __DIR__ . '/../';
+
+define('APP_PATH','http://expample.com');
+
+return array(
+    'debug_flag'          => true,
+    'php.error_reporting' => E_ALL,
+    'php.display_errors'  => true,
+    'php.log_errors'      => true,
+    'php.date.timezone'   => 'Asia/Tokyo',
+
+    'db.dsn'              => 'mysql:host=localhost;dbname=slim_db',
+    'db.username'         => 'slim',
+    'db.password'         => 'slim',
+
+    'path.templates'      => $basedir . 'templates/'
+);
