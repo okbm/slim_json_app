@@ -63,3 +63,6 @@ PHPUnit 4.5.0 by Sebastian Bergmann and contributors.
 - [Slim Framework Documentation](http://docs.slimframework.com/)
 - [Slim マイクロフレームワークで REST アプリケーションを作成する](http://www.ibm.com/developerworks/jp/xml/library/x-slim-rest/)
 - [Travis CI上でPHPアプリのWebベースのテストを自動化する - Engine Yard Blog](http://www.engineyard.co.jp/blog/2014/testing-php-app-with-selenium-on-travis/)
+- [こんにちは Slim PHP framework - senta.me/blog](http://senta.me/blog/php/hello-slim-php-framework/)
+- [フラットなPHPからSlimへ - ぷぎがぽぎ](http://d.hatena.ne.jp/brtRiver/20120729/1343573858)
+
